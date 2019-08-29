@@ -1,0 +1,16 @@
+body {
+  width: 100%;
+  height: 100%;
+  background: #707174;
+  margin : 0px;
+  padding: 0px;
+}
+.main{
+ margin-left: 30px;
+ color: black;
+ font-size: 25px;
+ 
+ padding: 10px;
+ font-family: 'Times New Roman', Times, serif;
+
+}
